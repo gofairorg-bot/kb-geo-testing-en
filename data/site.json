@@ -11,7 +11,11 @@
             "videos": [
                 58110,
                 58112
-            ]
+            ],
+            "video_captions": {
+                "58110": "vid1",
+                "58112": "vid2"
+            }
         },
         {
             "key": "company_name",
@@ -23,7 +27,11 @@
             "images": [
                 57904,
                 57902
-            ]
+            ],
+            "image_captions": {
+                "57902": "pic1",
+                "57904": "pic2"
+            }
         },
         {
             "key": "location",
@@ -32,7 +40,8 @@
             "placeholder_zh": "如：中国广东省广州市",
             "placeholder_en": "e.g. Guangzhou\/Guangdong\/China",
             "value": "中国广东广州2",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "key": "brand_name",
@@ -43,7 +52,8 @@
             "value": "好兄弟",
             "images": [
                 58048
-            ]
+            ],
+            "image_captions": []
         },
         {
             "key": "major_products",
@@ -52,7 +62,8 @@
             "placeholder_zh": "如：数控CNC设备、激光切割机、激光焊接机",
             "placeholder_en": "e.g. CNC machines, laser cutters",
             "value": "数控设备、激光设备、焊接设备",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "key": "applications",
@@ -61,7 +72,8 @@
             "placeholder_zh": "如：汽车零部件、消费电子、医疗器械",
             "placeholder_en": "e.g. Automotive, electronics, medical",
             "value": "电子、汽车制造、工业制造等",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "key": "year_established",
@@ -70,7 +82,8 @@
             "placeholder_zh": "如：2001年（可写具体日期）",
             "placeholder_en": "e.g. 2001",
             "value": "2001",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "key": "company_history",
@@ -79,7 +92,8 @@
             "placeholder_zh": "如：2001年成立专注CNC…",
             "placeholder_en": "e.g. Founded in 2001 focusing on CNC…",
             "value": "一路发展",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "key": "employees",
@@ -88,7 +102,8 @@
             "placeholder_zh": "如：截至2026年8月，员工159人",
             "placeholder_en": "e.g. 159 employees as of 2026",
             "value": "169人",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "key": "site_area",
@@ -97,7 +112,8 @@
             "placeholder_zh": "如：3200平方米厂房+290平方米办公",
             "placeholder_en": "e.g. 3200㎡ factory + 290㎡ office",
             "value": "3500平米",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "key": "annual_turnover",
@@ -106,7 +122,8 @@
             "placeholder_zh": "如：2025年约1.3亿元人民币",
             "placeholder_en": "e.g. ~130M RMB in 2025",
             "value": "1.6亿人民币",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "key": "sales_area",
@@ -115,7 +132,8 @@
             "placeholder_zh": "如：国内华南、华东；出口东南亚、欧洲",
             "placeholder_en": "e.g. South\/East China; SE Asia, Europe",
             "value": "全国各地",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "key": "advantages",
@@ -124,7 +142,8 @@
             "placeholder_zh": "如：深耕行业10年，核心部件自研",
             "placeholder_en": "e.g. 10 years focus, in-house core parts",
             "value": "性价比高",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "key": "founder",
@@ -135,7 +154,8 @@
             "value": "李经理...",
             "images": [
                 58049
-            ]
+            ],
+            "image_captions": []
         },
         {
             "key": "certifications",
@@ -147,7 +167,8 @@
             "images": [
                 58051,
                 58050
-            ]
+            ],
+            "image_captions": []
         },
         {
             "key": "business_reg",
@@ -156,7 +177,8 @@
             "placeholder_zh": "如：可填企查查等链接",
             "placeholder_en": "e.g. registration link",
             "value": "https:\/\/aiqicha.baidu.com\/company_detail_32615183300311",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "key": "additional",
@@ -167,7 +189,8 @@
             "value": "在充满竞争的自动化领域中，我司依托实惠的价格、优秀的品质、完善的售后服务，享有良好的声誉。\n我们热忱欢迎国内外客商来访洽谈打样。我公司另有一个子品牌“鸽子”，针对小微企业，具有较好的价格优势。",
             "images": [
                 57902
-            ]
+            ],
+            "image_captions": []
         }
     ],
     "contact": [
@@ -177,8 +200,12 @@
             "value": "https:\/\/geogofair.com",
             "placeholder_zh": "https:\/\/www.example.com（有官网请填写）",
             "placeholder_en": "",
-            "images": [],
-            "image_captions": []
+            "images": [
+                58049
+            ],
+            "image_captions": {
+                "58049": "MR.HAN"
+            }
         },
         {
             "label_zh": "联系人",
@@ -420,5 +447,5 @@
         "brand_bg": "#e0ffe2",
         "logo_height": 80
     },
-    "updated_at": "2026-10-16 20:20:15"
+    "updated_at": "2026-10-16 20:30:56"
 }
