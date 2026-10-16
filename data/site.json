@@ -177,7 +177,8 @@
             "value": "https:\/\/geogofair.com",
             "placeholder_zh": "https:\/\/www.example.com（有官网请填写）",
             "placeholder_en": "",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "label_zh": "联系人",
@@ -185,7 +186,8 @@
             "value": "李经理",
             "placeholder_zh": "如：张经理",
             "placeholder_en": "",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "label_zh": "地址",
@@ -193,7 +195,8 @@
             "value": "广州市天河区沙太南路85号金企商务中心66号厂房",
             "placeholder_zh": "详细地址",
             "placeholder_en": "",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "label_zh": "电话",
@@ -201,7 +204,8 @@
             "value": "020-8069****",
             "placeholder_zh": "如：020-8069****",
             "placeholder_en": "",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "label_zh": "手机",
@@ -209,7 +213,8 @@
             "value": "1352963****",
             "placeholder_zh": "如：135****1234",
             "placeholder_en": "",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "label_zh": "微信号",
@@ -217,7 +222,8 @@
             "value": "paygofair2",
             "placeholder_zh": "微信号或上传二维码",
             "placeholder_en": "",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "label_zh": "邮箱",
@@ -225,7 +231,8 @@
             "value": "gofair@qq.com",
             "placeholder_zh": "如：sales@example.com",
             "placeholder_en": "",
-            "images": []
+            "images": [],
+            "image_captions": []
         },
         {
             "label_zh": "Whatsapp",
@@ -233,7 +240,8 @@
             "value": "86-1352963****",
             "placeholder_zh": "",
             "placeholder_en": "",
-            "images": []
+            "images": [],
+            "image_captions": []
         }
     ],
     "platforms": [
@@ -348,6 +356,19 @@
                 "Potato Peeling Machine"
             ],
             "recommend": true
+        },
+        {
+            "title": "666",
+            "content": "<p>666<\/p>\n<p>[video width=\"1920\" height=\"1080\" mp4=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\"][\/video]<\/p>\n<p><img class=\"alignnone size-full wp-image-58050\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/tuv-rheinland-gs-mark-sample-certificate-en.jpg\" alt=\"\" width=\"800\" height=\"1132\" \/><\/p>",
+            "category_l1": "c1791807079228_2151",
+            "category_l2": "c1791807091036_885",
+            "category_l1_label": "Washing Machine",
+            "category_l2_label": "Potato Washing Machine",
+            "category_labels": [
+                "Washing Machine",
+                "Potato Washing Machine"
+            ],
+            "recommend": false
         }
     ],
     "faqs": [
@@ -399,5 +420,5 @@
         "brand_bg": "#e0ffe2",
         "logo_height": 80
     },
-    "updated_at": "2026-10-16 19:57:16"
+    "updated_at": "2026-10-16 20:11:50"
 }
