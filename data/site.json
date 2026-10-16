@@ -359,7 +359,7 @@
         },
         {
             "title": "666",
-            "content": "<p>666<\/p>\n<p>[video width=\"1920\" height=\"1080\" mp4=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\"][\/video]<\/p>\n<p><img class=\"alignnone size-full wp-image-58050\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/tuv-rheinland-gs-mark-sample-certificate-en.jpg\" alt=\"\" width=\"800\" height=\"1132\" \/><\/p>",
+            "content": "666\n\n[video width=\"1920\" height=\"1080\" mp4=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\"][\/video]\n\n<img class=\"alignnone size-full wp-image-58050\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/tuv-rheinland-gs-mark-sample-certificate-en.jpg\" alt=\"\" width=\"800\" height=\"1132\" \/>",
             "category_l1": "c1791807079228_2151",
             "category_l2": "c1791807091036_885",
             "category_l1_label": "Washing Machine",
@@ -420,5 +420,5 @@
         "brand_bg": "#e0ffe2",
         "logo_height": 80
     },
-    "updated_at": "2026-10-16 20:11:50"
+    "updated_at": "2026-10-16 20:20:15"
 }
