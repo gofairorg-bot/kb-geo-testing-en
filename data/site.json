@@ -2,19 +2,6 @@
     "version": "en",
     "about": [
         {
-            "key": "company_video2",
-            "label_zh": "企业宣传片",
-            "label_en": "Company Video",
-            "placeholder_zh": "上传你的企业宣传片",
-            "placeholder_en": "Upload your company video",
-            "value": "我们公司的宣传片666",
-            "videos": [
-                58110,
-                58112
-            ],
-            "video_captions": []
-        },
-        {
             "key": "company_name",
             "label_zh": "企业名称",
             "label_en": "Company Name",
@@ -26,6 +13,19 @@
                 57902
             ],
             "image_captions": []
+        },
+        {
+            "key": "company_video2",
+            "label_zh": "企业宣传片",
+            "label_en": "Company Video",
+            "placeholder_zh": "上传你的企业宣传片",
+            "placeholder_en": "Upload your company video",
+            "value": "我们公司的宣传片666",
+            "videos": [
+                58110,
+                58112
+            ],
+            "video_captions": []
         },
         {
             "key": "location",
@@ -433,12 +433,12 @@
         "mobile_articles_per_page": 12,
         "mobile_products_per_row": 2,
         "mobile_articles_per_row": 2,
-        "nav_font_size": 20,
-        "nav_gap": 20,
+        "nav_font_size": 18,
+        "nav_gap": 25,
         "submenu_width": 250,
         "brand_color": "#04864d",
         "brand_bg": "#e0ffe2",
         "logo_height": 80
     },
-    "updated_at": "2026-10-16 22:28:23"
+    "updated_at": "2026-10-16 22:39:24"
 }
