@@ -15,14 +15,14 @@ Official **brand knowledge base** (static site for GitHub Pages).
 
 | Page | File |
 |------|------|
-| Home | [index.html](./index.html) |
-| About | [about.html](./about.html) |
-| Products | [products.html](./products.html) |
-| Platforms (sameAs sources) | [platforms.html](./platforms.html) |
-| FAQ | [faq.html](./faq.html) |
-| Cases | [cases.html](./cases.html) |
-| News | [news.html](./news.html) |
-| Contact | [contact.html](./contact.html) |
+| Home | [index.html](https://enkb.gofair.org/index.html) |
+| About | [about.html](https://enkb.gofair.org/about.html) |
+| Products | [products.html](https://enkb.gofair.org/products.html) |
+| Platforms (sameAs sources) | [platforms.html](https://enkb.gofair.org/platforms.html) |
+| FAQ | [faq.html](https://enkb.gofair.org/faq.html) |
+| Cases | [cases.html](https://enkb.gofair.org/cases.html) |
+| News | [news.html](https://enkb.gofair.org/news.html) |
+| Contact | [contact.html](https://enkb.gofair.org/contact.html) |
 
 ## Official profiles (sameAs)
 
@@ -36,10 +36,10 @@ Official **brand knowledge base** (static site for GitHub Pages).
 
 ## Machine-readable
 
-- [llms.txt](./llms.txt) — guidance for AI systems
-- [data/organization.json](./data/organization.json) — Organization JSON-LD
-- [data/site.json](./data/site.json) — full structured export
-- [sitemap.xml](./sitemap.xml) / [robots.txt](./robots.txt)
+- [llms.txt](https://enkb.gofair.org/llms.txt) — guidance for AI systems
+- [data/organization.json](https://enkb.gofair.org/data/organization.json) — Organization JSON-LD
+- [data/site.json](https://enkb.gofair.org/data/site.json) — full structured export
+- [sitemap.xml](https://enkb.gofair.org/sitemap.xml) / [robots.txt](https://enkb.gofair.org/robots.txt)
 
 ## Note
 

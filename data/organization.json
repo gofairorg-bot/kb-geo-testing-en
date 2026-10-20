@@ -26,5 +26,9 @@
         "contactType": "customer service",
         "telephone": "020-8069****",
         "email": "gofair@qq.com"
-    }
+    },
+    "logo": "https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/2435fd7a-c761-4d6b-8bd3-13ae34c62c02.jpg",
+    "image": "https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/2435fd7a-c761-4d6b-8bd3-13ae34c62c02.jpg",
+    "url": "https:\/\/enkb.gofair.org\/index.html",
+    "@id": "https:\/\/enkb.gofair.org\/#organization"
 }

@@ -8,14 +8,14 @@
 - Products: 数控设备、激光设备、焊接设备
 
 ## Site map
-- ./index.html
-- ./about.html
-- ./products.html
-- ./platforms.html
-- ./faq.html
-- ./cases.html
-- ./news.html
-- ./contact.html
+- https://enkb.gofair.org/index.html
+- https://enkb.gofair.org/about.html
+- https://enkb.gofair.org/products.html
+- https://enkb.gofair.org/platforms.html
+- https://enkb.gofair.org/faq.html
+- https://enkb.gofair.org/cases.html
+- https://enkb.gofair.org/news.html
+- https://enkb.gofair.org/contact.html
 
 ## sameAs / official profiles
 - https://1688.com/ddd
