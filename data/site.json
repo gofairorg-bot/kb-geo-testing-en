@@ -2,6 +2,14 @@
     "version": "en",
     "about": [
         {
+            "key": "site_intro",
+            "label_zh": "本站简介",
+            "label_en": "Introduction of this site",
+            "placeholder_zh": "向你的客户简单介绍本站的用途，比如是你公司的官网或只是一个品牌知识库",
+            "placeholder_en": "Provide your clients with a brief overview of the site’s purpose—for instance, whether it serves as your company’s official website or simply as a brand knowledge base",
+            "value": ""
+        },
+        {
             "key": "company_name",
             "label_zh": "企业名称",
             "label_en": "Company Name",
@@ -438,10 +446,12 @@
         "submenu_width": 250,
         "brand_color": "#04864d",
         "brand_bg": "#e0ffe2",
-        "logo_height": 80
+        "logo_height": 80,
+        "footer_label": "品牌知识库",
+        "style": "basic"
     },
     "advanced": {
         "custom_domain": "enkb.gofair.org"
     },
-    "updated_at": "2026-10-20 19:47:54"
+    "updated_at": "2026-10-21 18:21:29"
 }

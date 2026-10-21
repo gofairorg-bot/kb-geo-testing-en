@@ -1,5 +1,7 @@
 # About — 好兄弟
 
+## Introduction of this site
+
 ## Company Name
 
 广州潜龙科技有限公司2
