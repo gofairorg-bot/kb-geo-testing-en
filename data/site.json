@@ -7,7 +7,7 @@
             "label_en": "Introduction of this site",
             "placeholder_zh": "向你的客户简单介绍本站的用途，比如是你公司的官网或只是一个品牌知识库",
             "placeholder_en": "Provide your clients with a brief overview of the site’s purpose—for instance, whether it serves as your company’s official website or simply as a brand knowledge base",
-            "value": ""
+            "value": "This is a site about machine"
         },
         {
             "key": "company_name",
@@ -458,5 +458,5 @@
     "advanced": {
         "custom_domain": "enkb.gofair.org"
     },
-    "updated_at": "2026-10-22 20:11:34"
+    "updated_at": "2026-10-22 21:36:37"
 }

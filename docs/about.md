@@ -2,6 +2,8 @@
 
 ## Introduction of this site
 
+This is a site about machine
+
 ## Company Name
 
 广州潜龙科技有限公司2
