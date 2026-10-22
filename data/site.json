@@ -444,14 +444,19 @@
         "nav_font_size": 16,
         "nav_gap": 40,
         "submenu_width": 250,
-        "brand_color": "#04864d",
+        "brand_color": "#0a92ae",
         "brand_bg": "#e0ffe2",
         "logo_height": 80,
         "footer_label": "品牌知识库",
-        "style": "basic"
+        "custom_css": "",
+        "custom_html_head": "",
+        "custom_html_top": "",
+        "custom_html_before_footer": "",
+        "custom_html_body_end": "",
+        "style": "industrial"
     },
     "advanced": {
         "custom_domain": "enkb.gofair.org"
     },
-    "updated_at": "2026-10-21 18:21:29"
+    "updated_at": "2026-10-22 20:11:34"
 }
